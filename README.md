@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 Submitted by: Kamran Mair (directory id: kmair1)
 Group Members: Kamran Mair (kmair1)
 App Description: Allows users to search for weather data by city, view recent weather queries, and removes all stored records in the database
