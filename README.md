@@ -5,5 +5,3 @@ YouTube Video Link: https://youtu.be/caHaiNoy71g
 APIs: VideoApp (https://openweathermap.org/api)
 Contact Email:  kmair1@umd.edu
 =======
-# weather-app
->>>>>>> 7b3b7cbd6397493866dc969189947c6e880e8dfc
