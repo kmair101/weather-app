@@ -44,7 +44,7 @@ async function startCommandLineInterface() {
 
 // Obtaning cmd args
 const args = process.argv.slice(2); 
-const port = args[args.length - 1]
+const port = args[args.length - 1] || 3000;
 
 // MongoDB connection
 mongoose.connect(MONGO_URI, {
